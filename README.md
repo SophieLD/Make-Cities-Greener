@@ -40,8 +40,7 @@ In addition, we want to find insights to encourage more people to ride bikes ins
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Raw Data is being kept [Oslo City Bike website](https://oslobysykkel.no/en/open-data/historical)  
-3. Reshaped dataset `trip_tb` for dashboard can be found in this repo.
-4. Routes data `route_df` with distance/duration by driving from Google Distance Matrix API can be found this this repo also. 
+3. Routes data `route_df` with distance/duration by driving from Google Distance Matrix API can be found this this repo also. 
 
 ## License & copyright
 @ Hongxia Hou
