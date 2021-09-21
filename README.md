@@ -39,8 +39,8 @@ In addition, we want to find insights to encourage more people to ride bikes ins
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [Oslo City Bike website](https://oslobysykkel.no/en/open-data/historical)  
-3. Routes data `route_df` with distance/duration by driving from Google Distance Matrix API can be found this this repo also. 
+2. Raw Data is from [Oslo City Bike website](https://oslobysykkel.no/en/open-data/historical), code for data import can be found in the jupyter notebook.  
+3. Routes data `route_df` with distance/duration by driving from Google Distance Matrix API can be found in this repo also. 
 
 ## License & copyright
 @ Hongxia Hou
