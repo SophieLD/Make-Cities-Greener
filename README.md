@@ -45,4 +45,4 @@ In addition, we want to find insights to encourage more people to ride bikes ins
 
 ## License & copyright
 @ Hongxia Hou
-Licensed under [MIT License](LICENSE)
+--Licensed under [MIT License](LICENSE)
