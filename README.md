@@ -25,6 +25,7 @@ In this project, I am going to analyze Oslo City Bike historical tripdata from 2
 * 💼 Map out the "rush hour" of different stations
 * 📈 What are the most popular cycling routes in Oslo?
 * 🚴 How far do they go?
+
 In addition, we want to find insights to encourage more people to ride bikes instead of driving cars. The idea could be to show people how efficient it is to ride a bike and how much carbon emission is saved if taking a bike instead of a car based on the historical data. So in this project, we will also look into:
 * ⚡️ Compare the efficiency between cycling and driving?
 * ♻️ How much CO2 emission has cycling saved?
